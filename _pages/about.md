@@ -22,4 +22,5 @@ title: "About Elizabeth Walther"
 
 ?? [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+![Elizabeth Walther](/assets/img/Elizabeth Walther Headshot.jpg)
+
