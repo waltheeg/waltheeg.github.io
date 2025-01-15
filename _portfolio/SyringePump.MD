@@ -21,8 +21,9 @@ gallery:
 
 * xx
 
+# Bill of Materials 
 
-# Off-the-Shelf Parts
+## Off-the-Shelf Parts
 
 | Part # | Part Name | # Required |
 |:---------:|:----------:|:-------------:|
@@ -46,7 +47,7 @@ gallery:
 | 18 | LCD Screen | 1 |
 | 19 | 20 mL syringe | 1 |
 
-# 3D Printed Parts
+## 3D Printed Parts
 
 xx
 
