@@ -22,13 +22,31 @@ gallery:
 * xx
 
 
-# Table of Off-the-Shelf Parts
+# Off-the-Shelf Parts
 
-| Part Name | # Required | Purchase Link |
+| Part Name | # Required | Picture |
 |:---------:|:----------:|:-------------:|
-|b         | c          | d             |
+| M3 x 10 mm bolt | ? | ? |
+| M5 tee nut | ? | ? |
+| Coupler | ? | ? |
+| M5 x 8 mm bolt | ? | ? |
+| NEMA 17 motor | ? | ? |
+| M3 x 10 mm bolt | ? | ? |
+| M3 x 8 mm thread forming screw | ? | ? |
+| LM8UU linear bearing | ? | ? |
+| Through nut 8x8-4 | ? | ? |
+| Linear rod lock collar | ? | ? |
+| 8 x 8 x 250 mm lead screw | ? | ? |
+| Lead screw lock collar | ? | ? |
+| Flanged ball bearing | ? | ? |
+| 8 mm x 200 mm linear rod | ? | ? |
+| 5 mm LED | ? | ? |
+| Potentiometer | ? | ? |
+| LCD Screen | ? | ? |
+| 9.5 mm push button | ? | ? |
+| 20 mL syringe | ? | ? |
 
-# Table of 3D Printed Parts
+# 3D Printed Parts
 
 xx
 
