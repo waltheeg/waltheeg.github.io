@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Engineering Portfolio"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Elizabeth Walther is a current junior at Vanderbilt University, majoring in Mechanical Engineering while pursuing three minors in Digital Fabrications, Engineering Management, and Special Education. Her academic journey is driven by a strong passion for assistive technology, a field where innovation intersects with compassion to empower individuals with disabilities."
+excerpt: "Elizabeth Walther is a current junior at Vanderbilt University, majoring in Mechanical Engineering and triple minoring in Digital Fabrications, Engineering Management, and Special Education. She hopes to purse a career in rehabilitation engineering after graduation."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
