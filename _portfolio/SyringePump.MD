@@ -24,9 +24,9 @@ gallery:
 
 # Table of Off-the-Shelf Parts
 
-| Part # | Part Name | # Required | Purchase Link |
-|--------|-----------|------------|---------------|
-| a      | b         | c          | d             |
+| Part Name | # Required | Purchase Link |
+|:---------:|:----------:|:-------------:|
+|b         | c          | d             |
 
 # Table of 3D Printed Parts
 
