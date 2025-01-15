@@ -13,9 +13,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Elizabeth Walther"
 title_separator          : "-"
-subtitle                 : "Digital Fabrication Portfolio"
+subtitle                 : "Engineering Portfolio"
 name                     : &name "Elizabeth Walther" # &name is a YAML anchor which can be *referenced later
-description              : &description "Digital Fabrication Portfolio"
+description              : &description "Engineering Portfolio"
 url                      : https://waltheeg.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
