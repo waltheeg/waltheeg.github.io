@@ -24,27 +24,27 @@ gallery:
 
 # Off-the-Shelf Parts
 
-| Part Name | # Required | Picture |
+| Part # | Part Name | # Required |
 |:---------:|:----------:|:-------------:|
-| V Slot | 1 | ? |
-| NEMA 17 motor | 1 | ? |
-| M3 x 10 mm bolt | 4 | ? |
-| Flexible coupler | 1 | ? |
-| M5 x 8 mm bolt | 8 | ? |
-| M5 tee nut | 8 | ? |
-| 8 x 8 x 250 mm lead screw | 1 | ? |
-| Lead screw lock collar | 2 | ? |
-| 8 mm x 200 mm linear rod | 1 | ? |
-| Linear rod lock collar | 2 | ? |
-| Flanged ball bearing | 2 | ? |
-| Through nut 8x8-4 | 1 | ? |
-| M3 x 8 mm thread forming screw | 4 | ? |
-| LM8UU linear bearing | 1 | ? |
-| 9.5 mm push button | 1 | ? |
-| 5 mm LED | 1 | ? |
-| Potentiometer | 1 | ? |
-| LCD Screen | 1 | ? |
-| 20 mL syringe | 1 | ? |
+| 1 | V Slot | 1 |
+| 2 | NEMA 17 motor | 1 |
+| 3 | M3 x 10 mm bolt | 4 |
+| 4 | Flexible coupler | 1 |
+| 5 | M5 x 8 mm bolt | 8 |
+| 6 | M5 tee nut | 8 |
+| 7 | 8 x 8 x 250 mm lead screw | 1 |
+| 8 | Lead screw lock collar | 2 |
+| 9 | 8 mm x 200 mm linear rod | 1 |
+| 10 | Linear rod lock collar | 2 |
+| 11 | Flanged ball bearing | 2 |
+| 12 | Through nut 8x8-4 | 1 |
+| 13 | M3 x 8 mm thread forming screw | 4 |
+| 14 | LM8UU linear bearing | 1 |
+| 15 | 9.5 mm push button | 1 |
+| 16 | 5 mm LED | 1 |
+| 17 | Potentiometer | 1 |
+| 18 | LCD Screen | 1 |
+| 19 | 20 mL syringe | 1 |
 
 # 3D Printed Parts
 
