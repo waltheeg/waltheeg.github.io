@@ -3,11 +3,11 @@ title: "Syringe Pump"
 excerpt: "This 3D printed, motorized syringe pump is programmed to accurately deliver liquid from 5mL - 20mL syringes."
 header:
   image: /assets/img/LF3DP-Banner-2.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
+  teaser: /assets/img/Syringe Pump Feature.png
 gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  - image_path: assets/img/Syringe Pump Rendering 1.png
+  - image_path: assets/img/Sryinge Pump Rendering 2.png
+  - image_path: assets/img/Syringe Pump Wiring.png
    
 ---
 
