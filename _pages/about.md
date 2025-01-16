@@ -17,34 +17,18 @@ Elizabeth is a current junior at Vanderbilt University, majoring in Mechanical E
 
 * Tikkun Olam Makers (TOM)
   * Global Fellow, August 2024 - Current
-    * Selected as one of 82 fellows from 56 universities in 8 countries for a 9-month international leadership program
-    * Connect monthly with the TOM Global staff to ensure success of the TOM: Vanderbilt community
-    * Collaborate with fellows around the world on projects helping those with disabilities and other unmet needs
   * President of TOM: Vanderbilt, January 2024 - Current
-    * Duties involve leading the executive board and planning the 2024 TOM: Vanderbilt Makeathon
-  * Logistics Co-Chair of TOM: Vanderbilt, Novenber 2022 - January 2024
-    * Duties involve organizing events, securing funding from sponsors, and coordinating with vendors
-    * Initiated Vanderbilt program of adapting battery-powered ride-on cars for toddlers with disabilities (Go Baby Go)
-    * Led team in designing and fabricating an accessible music station for a young girl with an undiagnosed condition
-    * Collaborated with team to design and fabricate a basket attachment for an individual’s reverse walker
+  * Logistics Co-Chair of TOM: Vanderbilt, November 2022 - January 2024
 * Human Engineering Research Laboratories, University of Pittsburgh
   * Undergraduate Research Intern, May 2024 - July 2024
-    * Selected for American Student Placements in Rehabilitation Engineering (ASPIRE) REU at the University of Pittsburgh
-    * Worked under Dr. Jonathan Duvall to rapid prototype and document devices to facilitate inclusion in sports and recreation
 * Zelik Lab, Center for Rehabilitation Engineering and Assistive Technology (CREATe), Vanderbilt University
   * Undergraduate Researcher, May 2023 - May 2024
-    * Designed, fabricated, and tested exoskeletons and prostheses under the guidance of Dr. Karl Zelik
 * The Frist Center for Autism and Innovation, Vanderbilt University
   * Undergraduate Researcher, July 2022 - April 2023
-    * Researched national employment opportunities for neurodiverse job seekers under Dr. Keivan Stassun and Dr. Tim Vogus
 * Currey Ingram Academy
   * Teaching Assistant, June 2022 - July 2022
-    * Workforce Readiness and Preparation (WRaP) Program
-    * Directed teens with autism in learning basic coding and workforce readiness
 * Winnetka Park Districk
   * Junior Figure Skating Instructor, August 2019 - June 2022
-    * Instructed students ranging in age from 2 to 14
-    * Created and developed an ice skating program for youth with disabilities
 
 ## Technical Skills
 
