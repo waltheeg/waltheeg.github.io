@@ -19,13 +19,12 @@ gallery:
 
 # How to Operate
 
-* Fill the syringe with liquid and insert into the holders.
-* Make sure the ON/OFF button next to the LED light is pressed in, indicating an OFF stage. Plug in the power cord. The LED should turn yellow. 
-* If a preset flow rate is desired, adjust the potentiometer such that it outputs “Flow Rate: 0” (completely turned to the left) or “Flow Rate: 100” (completely turned to the right). Then, press the ON/OFF button to start the device at a consistent preset speed. 
-  * Alternatively, the desired flow rate can be set in the Arduino code, which will calculate the necessary steps per second to output through the motor.
-* If the potentiometer is required for operation, start with the knob turned completely to the left or the right (0 or 100 Flow Rate), press the ON/OFF button to start the device, and then adjust the knob to the desired flow rate. 
-* The LCD displays the flow rate and the time countdown. 
-* The LED turns green when the device is running,  yellow when the flow rate is 0 and there’s liquid remaining in the syringe, and red when the device reaches the end of its stroke.
+1) Fill the syringe with liquid and insert into the holders.
+2) Make sure the ON/OFF button next to the LED light is pressed in, indicating an OFF stage. Plug in the power cord. The LED should turn yellow. 
+3) If a preset flow rate is desired, adjust the potentiometer such that it outputs “Flow Rate: 0” (completely turned to the left) or “Flow Rate: 100” (completely turned to the right). The desired flow rate can be set in the Arduino code, which will calculate the necessary steps per second to output through the motor. Then, press the ON/OFF button to start the device at a consistent preset speed. 
+4) Alternatively, if the potentiometer is required for operation, start with the knob turned completely to the left or the right (0 or 100 Flow Rate), press the ON/OFF button to start the device, and then adjust the knob to the desired flow rate. 
+5) The LCD displays the flow rate and the time countdown. 
+6) The LED turns green when the device is running,  yellow when the flow rate is 0 and there’s liquid remaining in the syringe, and red when the device reaches the end of its stroke.
 
 
 # Bill of Materials 
