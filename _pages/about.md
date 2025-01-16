@@ -1,7 +1,6 @@
 ---
 
 title: "About Elizabeth Walther"
-permalink: /about/
 
 ---
 
