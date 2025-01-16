@@ -49,7 +49,17 @@ gallery:
 
 ## 3D Printed Parts
 
-xx
+| Part # | Part Name | # Required |
+|:---------:|:----------:|:-------------:|
+| 20 | Motor Mounting Plate | 1 |
+| 21 | Carriage | 1 |
+| 22 | Syringe Support | 1 |
+| 23 | Plunger Support | 1 |
+| 24 | End Support | 1 |
+| 25 | Enclosure Shell | 1 |
+| 26 | Enclosure Drawer | 1 |
+| 27 | Cord Hole Filler | 1 |
+| 28 | Button Gap Filler | 1 |
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1faab3ee761fd268?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
