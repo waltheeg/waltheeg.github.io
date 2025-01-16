@@ -3,7 +3,7 @@
 title: "About Elizabeth Walther"
 
 ---
-
+permalink: /about/
 
 Elizabeth is a current junior at Vanderbilt University, majoring in Mechanical Engineering while pursuing three minors in Digital Fabrications, Engineering Management, and Special Education. Her academic journey is driven by a strong passion for assistive technology, a field where innovation intersects with compassion to empower individuals with disabilities. As the President of TOM: Vanderbilt, she channels this passion into tangible initiatives, fostering collaboration and ingenuity within the community. When she's not studying, you can find her playing pickleball outside with friends, experimenting with new cookie recipes in the kitchen, or crafting homemade cards for upcoming celebrations. Her overall goal is to harness engineering expertise for meaningful societal change, blending curiosity with empathy to drive innovation forward.
 
