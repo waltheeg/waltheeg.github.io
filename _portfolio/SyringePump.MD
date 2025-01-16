@@ -11,6 +11,8 @@ gallery:
    
 ---
 
+Syringe pumps are commonly used in laboratories (for microfluidic devices) and medical institutions (for administering medicine and vital nutrients). It is imperative that a syringe pump be calibrated correctly to prevent any mistakes, especially ones that can cost a life. However, commercial programmable syringe pumps are extremely expensive, even for the most basic models. As a result, DIY syringe pumps can be a cost-effective, yet functionally acceptable, alternative.
+
 # Features
 
 * **Linear Actuator -** The syringe pump converts the rotary motion of the stepper motor to linear movement of a syringe's plunger by using a coupler and a lead screw.
