@@ -13,13 +13,20 @@ gallery:
 
 # Features
 
-* **Linear Actuator -** The syringe pump converts the rotary motion of the stepper motor to linear movement of a syringe's plunger by using screw transmission.
+* **Linear Actuator -** The syringe pump converts the rotary motion of the stepper motor to linear movement of a syringe's plunger by using a coupler and a lead screw.
 * **Suitable for Various Syringes -** Syringes of multiple diameters can be easily installed onto the syringe pump by aligning the plunger flange and barrel flange to the corresponding slits on the carriage and modified end support.
 * **External Electrical Components -** There are four external electrical components attached to the enclosure shell: the LED, the ON/OFF button, the potentiometer, and the LCD screen. The ON/OFF button starts the motor. The LED shows the working condition of the syringe pump (green when the pump is running, yellow when the pump is paused, and red when all liquid is dispensed). The potentiometer has a turning knob that controls the flow rate of the pump. The LCD screen displays the flow rate of the pump and the time remaining until all liquid is dispensed.
 
 # How to Operate
 
-* xx
+* Fill the syringe with liquid and insert into the holders.
+* Make sure the ON/OFF button next to the LED light is pressed in, indicating an OFF stage. Plug in the power cord. The LED should turn yellow. 
+* If a preset flow rate is desired, adjust the potentiometer such that it outputs “Flow Rate: 0” (completely turned to the left) or “Flow Rate: 100” (completely turned to the right). Then, press the ON/OFF button to start the device at a consistent preset speed. 
+  * Alternatively, the desired flow rate can be set in the Arduino code, which will calculate the necessary steps per second to output through the motor.
+* If the potentiometer is required for operation, start with the knob turned completely to the left or the right (0 or 100 Flow Rate), press the ON/OFF button to start the device, and then adjust the knob to the desired flow rate. 
+* The LCD displays the flow rate and the time countdown. 
+* The LED turns green when the device is running,  yellow when the flow rate is 0 and there’s liquid remaining in the syringe, and red when the device reaches the end of its stroke.
+
 
 # Bill of Materials 
 
