@@ -25,13 +25,11 @@ Pinch flow fractination (PFF) is a microfluidic technique used for sorting parti
 
 **1. CAD Model**<br>
 
-The first step in fabricating the microfluidic device was creating the CAD model. The device, when molded, is precisely 25 mm wide and 75 mm long, allowing it to sit flush on a common microscope slide. Some design constraints included maintaining an aspect ratio less than 4:1, keeping inlets and outlets a minimum of 11 mm away from each other so that the barbs don't intersect, and maintaining a 3 mm buffer region around the edge of the device to allow for sufficient bonding to the glass slide. 
+The first step in fabricating the microfluidic device was creating the CAD model. The device, when molded, is precisely 25 mm wide and 75 mm long, allowing it to sit flush on a common microscope slide. Some design constraints included maintaining an aspect ratio less than 4:1, keeping inlets and outlets a minimum of 11 mm away from each other so that the barbs don't intersect, and maintaining a 3 mm buffer region around the edge of the device to allow for sufficient bonding to the glass slide.<br>
 
-For the channel design, the inlets intersect at 45 degree angles from the horizontal, the pinched region is 1.5 times the diameter of the largest particle, and the broad region is wide enough to allow for four equally wide channels. 
+For the channel design, the inlets intersect at 45 degree angles from the horizontal to allow for even mixing, the pinched region is 1.5 times the diameter of the largest particle (0.75 mm), and the broad region is wide enough (16 mm) to allow for four equally wide channels (3.067 mm each). This channel size was based on the size of the streamline for the smallest particles from the equation Y=(wP-(D/2))*(wB/wP).<br>
 
-* Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, 
-outlet width, location of ports, etc.) 
-* What steps or design features did you use to ensure that each outlet received the same flow rate, preventing disruptions to the streamlines and maintaining proper separation? 
+The design allows for optimal particle sorting because it maintains proper separation between the particle sizes and doesn't disrupt the streamline in the gaps (a pointed triangle was used to split the streamlines). Four channels were used to accommodate small particles, large particles, and excess buffer fluid. It was impossible to ensure each outlet received the same flow rate since the channels are different lengths (to accommodate the barb diameters), but by having two channels dedicated to removing buffer fluid, the streamlines including particles shouldn't be affected.<br>
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a498a7e80bce8385f9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
