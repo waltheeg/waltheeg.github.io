@@ -12,14 +12,14 @@ galleryc:
 
    
 ---
-
-# Introduction
+<br><br>
+## Introduction
 
  Generally, describe μFluidic devices. 
 • What is pinch flow fractionation? How does it work?  
 • Provide at least one specific application that requires sorting of small particles. Include at least one citation from primary literature.  
 
-# Design Instructions
+## Design Instructions
 **1. CAD Model**
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1faab3ee761fd268?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
@@ -38,11 +38,11 @@ PICTURE OF CASTED DEVICE
 
 **5. Plasma Bond Glass Slide**
 
-# Final Design
+## Final Design
 
 EMBEDDED YOUTUBE OF DEVICE WORKING
 
-# Discussion
+## Discussion
 
 * Why are resin-printed molds coated with parylene prior to casting the PDMS? What are 
 hypothetical applications of your microfluidic mixer or sorter? 
