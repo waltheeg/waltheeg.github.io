@@ -25,7 +25,13 @@ Pinch flow fractination (PFF) is a microfluidic technique used for sorting parti
 
 **1. CAD Model**<br>
 
-The first step in fabricating the microfluidic device was creating the CAD model. The device, when molded, is precisely 25 mm wide and 75 mm long, allowing it to sit flush on a common microscope slide. Some design constraints included maintaining an aspect ratio less than 4:1, keeping inlets and outlets a minimum of 11 mm away from each other so that the barbs don't intersect, and maintaining a 3 mm buffer region around the edge of the device to allow for sufficient bonding to the glass slide. For the channel design, the inlets intersect at 45 degree angles from the horizontal, the pinched region is 1.5 times the diameter of the largest particle, and the broad region is wide enough to allow for four equally wide channels. 
+The first step in fabricating the microfluidic device was creating the CAD model. The device, when molded, is precisely 25 mm wide and 75 mm long, allowing it to sit flush on a common microscope slide. Some design constraints included maintaining an aspect ratio less than 4:1, keeping inlets and outlets a minimum of 11 mm away from each other so that the barbs don't intersect, and maintaining a 3 mm buffer region around the edge of the device to allow for sufficient bonding to the glass slide. 
+
+For the channel design, the inlets intersect at 45 degree angles from the horizontal, the pinched region is 1.5 times the diameter of the largest particle, and the broad region is wide enough to allow for four equally wide channels. 
+
+* Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, 
+outlet width, location of ports, etc.) 
+* What steps or design features did you use to ensure that each outlet received the same flow rate, preventing disruptions to the streamlines and maintaining proper separation? 
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a498a7e80bce8385f9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
@@ -34,7 +40,6 @@ The first step in fabricating the microfluidic device was creating the CAD model
 **2. Print and Cure Mold**<br>
 
 This CAD model was then SLA printed with high temperature resin. A 0.05 mm layer height was configured, and the bottom of the mold was placed parallel with the resin vat to allow for a perfectly flat bottom layer. Once printed, the device was rinsed in the FormWash for 5 minutes on the print bed and an additional 5 minutes off of the print bed. Then, the device was air dried for 30 minutes before undergoing a 60 second surface cure at room temperature. Once cured, the supports from the device were removed.
-
 <br>
 
 PICTURE OF MOLD
@@ -43,7 +48,7 @@ PICTURE OF MOLD
 
 **3. Parylene Coating**<br>
 
-Next, the microfluidic device was coated in a thin layer of parylene, which is a biocompatible and chemically resistant polymer. The coating process occurs through chemical vapor deposition, enhancing durability of the device.
+Next, the microfluidic device was coated in a thin layer of parylene, which is a biocompatible and chemically resistant polymer. The coating process occurs through chemical vapor deposition. The coating process is necessary to create a smooth, non-stick, and chemically inert, surface. Coating enhances the durability of the device and makes it easier to peel off the cured PDMS without damaging the mold or microstructures.
 <br><br>
 
 
@@ -57,6 +62,7 @@ PICTURE OF CASTED DEVICE
 
 
 **5. Plasma Bond Glass Slide**<br>
+
 Lastly, the PDMS and glass slide were treated with oxygen plasma and immediately pressed together to form a strong, irreversible bond. Once bonded, the device was ready for testing. 
 
 
@@ -67,15 +73,7 @@ EMBEDDED YOUTUBE OF DEVICE WORKING
 
 ## Discussion
 
-
-* Why are resin-printed molds coated with parylene prior to casting the PDMS? 
-What are 
-hypothetical applications of your microfluidic mixer or sorter? 
-• Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, 
-outlet width, location of ports, etc.) 
-• What steps or design features did you use to ensure that each outlet received the same flow rate, preventing disruptions to the streamlines and maintaining proper separation? 
-
-
+* What are hypothetical applications of your microfluidic mixer or sorter? 
 * Based on the results of testing, could you implement any future changes to improve 
 sorting? 
 
