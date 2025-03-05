@@ -14,11 +14,11 @@ galleryc:
 ---
 <br>
 ## Introduction
+### Microfluidic Devices
+Microfluidic devices are systems that manipulate very small volumes of liquids through channels to perform a variety of chemical and biological analyses. They are widely used for biomedical diagnoses, drug delivery, and chemical synthesis. Using a microfluidic device allows for reduced reagent consumption and rapid processing times.
 
- Generally, describe μFluidic devices. 
-• What is pinch flow fractionation? How does it work?  
-• Provide at least one specific application that requires sorting of small particles. Include at least one citation from primary literature.  
-
+### Pinch Flow Fractinatino
+Pinch flow fractination (PFF) is a microfluidic technique used for sorting particles based on size. As the flow enters the pinched region, the particles align to the walls due to hydrodynamic forces. The position of the particles in the pinched region depends on their size, and when the pinched region transitions to the broad region, the particles follow along their streamline and are sorted into the various outlet channels. One specific application of PFF is in cancer detection. Based on a 2009 article by Xu et al., PFF was used to sort multiple types of cancer cells from a complex sample, allowing for early cancer detection in patients ([Aptamer-Based Microfluidic Device for Enrichment, Sorting, and Detection of Multiple Cancer Cells](https://pubs.acs.org/doi/10.1021/ac9012072)).
 
 
 ## Design Instructions
