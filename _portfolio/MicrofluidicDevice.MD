@@ -71,7 +71,7 @@ EMBEDDED YOUTUBE OF DEVICE WORKING
 
 ## Discussion
 
-* What are hypothetical applications of your microfluidic mixer or sorter? 
+This microfluidic device is applicable to a wide range of fields. In the biomedical field, the device could be used to separate different sized blood components. More specifically, it could separate immune cells from smaller red blood cells for disease diagnostics. In the environmental field, the device could be used to categorize microplastics in the water. In the industrial field, the device could be used to remove unwanted particle contaminants in liquids. 
+
 * Based on the results of testing, could you implement any future changes to improve 
 sorting? 
-
