@@ -3,12 +3,12 @@ title: "Microfluidic Device"
 excerpt: "This resin printed microfluidic device is capable of sorting particles (125 – 150 μm and 425 – 500 μm) with pinch flow fractionation."
 
 header:
-  image: /assets/img/Syringe Pump Feature.png
-  teaser: /assets/img/Syringe Pump Feature.png
+  image: assets/img/uFluidic Model Render.jpg
+  teaser: assets/img/uFluidic Model Render.jpg
 gallerym:
-  - image_path: assets/img/Syringe Pump Rendering 1.png
+  - image_path: assets/img/uFluidic Model Render.jpg
 galleryc:
-  - image_path: assets/img/Syringe Pump Rendering 1.png
+  - image_path: assets/img/uFluidic Model Render.jpg
 
    
 ---
@@ -29,12 +29,11 @@ xx
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a498a7e80bce8385f9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-<br>
-
 
 **2. Print and Cure Mold**<br>
 
-xx<br>
+xx
+<br>
 
 PICTURE OF MOLD
 {% include gallery id="gallerym" caption="Microfluidic Device Mold" %}
@@ -44,11 +43,14 @@ PICTURE OF MOLD
 
 **3. Parylene Device**<br>
 
-xx<br>
+xx
+<br>
 
 
 **4. Cast PDMS**<br>
+
 xx
+<br>
 
 PICTURE OF CASTED DEVICE
 {% include gallery id="galleryc" caption="Casted Microfluidic Device" %}
@@ -73,6 +75,4 @@ outlet width, location of ports, etc.)
 flow rate, preventing disruptions to the streamlines and maintaining proper separation? 
 • Based on the results of testing, could you implement any future changes to improve 
 sorting? 
-
-
 
