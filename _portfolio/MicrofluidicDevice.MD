@@ -18,7 +18,7 @@ galleryc:
 Microfluidic devices are systems that manipulate very small volumes of liquids through channels to perform a variety of chemical and biological analyses. They are widely used for biomedical diagnoses, drug delivery, and chemical synthesis. Using a microfluidic device allows for reduced reagent consumption and rapid processing times.
 
 ### Pinch Flow Fractination
-Pinch flow fractination (PFF) is a microfluidic technique used for sorting particles based on size. As the flow enters the pinched region, the particles align to the walls due to hydrodynamic forces. The position of the particles in the pinched region depends on their size, and when the pinched region transitions to the broad region, the particles follow along their streamline and are sorted into the various outlet channels. One specific application of PFF is in cancer detection. Based on a 2009 article by Xu et al., PFF was used to sort multiple types of cancer cells from a complex sample, allowing for early cancer detection in patients ([Aptamer-Based Microfluidic Device for Enrichment, Sorting, and Detection of Multiple Cancer Cells](https://pubs.acs.org/doi/10.1021/ac9012072)).
+Pinch flow fractionation (PFF) is a microfluidic technique used for sorting particles based on size. As the flow enters the pinched region, the particles align to the walls due to hydrodynamic forces. The position of the particles in the pinched region depends on their size, and when the pinched region transitions to the broad region, the particles follow along their streamline and are sorted into the various outlet channels. One specific application of PFF is in cancer detection. Based on a 2009 article by Xu et al., PFF was used to sort multiple types of cancer cells from a complex sample, allowing for early cancer detection in patients ([Aptamer-Based Microfluidic Device for Enrichment, Sorting, and Detection of Multiple Cancer Cells](https://pubs.acs.org/doi/10.1021/ac9012072)).
 
 
 ## Design Instructions
@@ -52,7 +52,7 @@ Next, the microfluidic device was coated in a thin layer of parylene, which is a
 
 **4. Cast PDMS**<br>
 
-Then, polydimethylsiloxane (PDMS) was mixed with a curing agent, placed into a vacuum chamber to remove bubbles, and poured into the SLA printed mold. The PDMS was cured at an elevated temperature for a few hours until it solidfied, at which point it was carefully peeled from the mold. 
+Then, polydimethylsiloxane (PDMS) was mixed with a curing agent, placed into a vacuum chamber to remove bubbles, and poured into the SLA printed mold. The PDMS was cured at an elevated temperature for a few hours until it solidified, at which point it was carefully peeled from the mold. 
 <br>
 
 PICTURE OF CASTED DEVICE
@@ -71,7 +71,7 @@ EMBEDDED YOUTUBE OF DEVICE WORKING
 
 ## Discussion
 
-This microfluidic device is applicable to a wide range of fields. In the biomedical field, the device could be used to separate different sized blood components. More specifically, it could separate immune cells from smaller red blood cells for disease diagnostics. In the environmental field, the device could be used to categorize microplastics in the water. In the industrial field, the device could be used to remove unwanted particle contaminants in liquids. 
+This microfluidic device is applicable in a wide range of fields. In the biomedical field, the device could be used to separate different sized blood components. More specifically, it could separate immune cells from smaller red blood cells for disease diagnostics. In the environmental field, the device could be used to categorize microplastics in the water. In the industrial field, the device could be used to remove unwanted particle contaminants in liquids. 
 
 * Based on the results of testing, could you implement any future changes to improve 
 sorting? 
