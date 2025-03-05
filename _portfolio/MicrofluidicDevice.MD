@@ -29,6 +29,7 @@ xx
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a498a7e80bce8385f9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+<br>
 
 **2. Print and Cure Mold**<br>
 
@@ -38,13 +39,11 @@ xx
 PICTURE OF MOLD
 {% include gallery id="gallerym" caption="Microfluidic Device Mold" %}
 
-<br>
-
 
 **3. Parylene Device**<br>
 
 xx
-<br>
+<br><br>
 
 
 **4. Cast PDMS**<br>
