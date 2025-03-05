@@ -12,35 +12,56 @@ galleryc:
 
    
 ---
-<br><br>
+<br>
 ## Introduction
 
  Generally, describe μFluidic devices. 
 • What is pinch flow fractionation? How does it work?  
 • Provide at least one specific application that requires sorting of small particles. Include at least one citation from primary literature.  
 
+
+
 ## Design Instructions
-**1. CAD Model**
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1faab3ee761fd268?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+**1. CAD Model**<br>
 
-**2. Print and Cure Mold**
+xx
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a498a7e80bce8385f9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+<br>
+
+
+**2. Print and Cure Mold**<br>
+
+xx<br>
 
 PICTURE OF MOLD
 {% include gallery id="gallerym" caption="Microfluidic Device Mold" %}
 
-**3. Parylene Device**
+<br>
 
-**4. Cast PDMS**
+
+**3. Parylene Device**<br>
+
+xx<br>
+
+
+**4. Cast PDMS**<br>
+xx
 
 PICTURE OF CASTED DEVICE
 {% include gallery id="galleryc" caption="Casted Microfluidic Device" %}
 
-**5. Plasma Bond Glass Slide**
+
+**5. Plasma Bond Glass Slide**<br>
+xx
+
 
 ## Final Design
 
 EMBEDDED YOUTUBE OF DEVICE WORKING
+
 
 ## Discussion
 
