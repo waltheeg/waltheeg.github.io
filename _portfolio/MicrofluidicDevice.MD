@@ -6,9 +6,9 @@ header:
   image: assets/img/uFluidic Model Render.jpg
   teaser: assets/img/uFluidic Model Render.jpg
 gallerym:
-  - image_path: assets/img/uFluidic Model Render.jpg
+  - image_path: assets/img/uFluidic Mold.jpg
 galleryc:
-  - image_path: assets/img/uFluidic Model Render.jpg
+  - image_path: assets/img/uFluidic Casted Device.jpg
 
    
 ---
@@ -40,7 +40,6 @@ The design allows for optimal particle sorting because it maintains proper separ
 This CAD model was then SLA printed with high temperature resin. A 0.05 mm layer height was configured, and the bottom of the mold was placed parallel with the resin vat to allow for a perfectly flat bottom layer. Once printed, the device was rinsed in the FormWash for 5 minutes on the print bed and an additional 5 minutes off of the print bed. Then, the device was air dried for 30 minutes before undergoing a 60 second surface cure at room temperature. Once cured, the supports from the device were removed.
 <br>
 
-PICTURE OF MOLD
 {% include gallery id="gallerym" caption="Microfluidic Device Mold" %}
 
 
@@ -55,7 +54,6 @@ Next, the microfluidic device was coated in a thin layer of parylene, which is a
 Then, polydimethylsiloxane (PDMS) was mixed with a curing agent, placed into a vacuum chamber to remove bubbles, and poured into the SLA printed mold. The PDMS was cured at an elevated temperature for a few hours until it solidified, at which point it was carefully peeled from the mold. 
 <br>
 
-PICTURE OF CASTED DEVICE
 {% include gallery id="galleryc" caption="Casted Microfluidic Device" %}
 
 
@@ -64,14 +62,10 @@ PICTURE OF CASTED DEVICE
 Lastly, the PDMS and glass slide were treated with oxygen plasma and immediately pressed together to form a strong, irreversible bond. Once bonded, the device was ready for testing. 
 
 
-## Final Design
-
-EMBEDDED YOUTUBE OF DEVICE WORKING
-
 
 ## Discussion
 
-This microfluidic device is applicable in a wide range of fields. In the biomedical field, the device could be used to separate different sized blood components. More specifically, it could separate immune cells from smaller red blood cells for disease diagnostics. In the environmental field, the device could be used to categorize microplastics in the water. In the industrial field, the device could be used to remove unwanted particle contaminants in liquids. 
+This microfluidic device is applicable in a wide range of fields. In the biomedical field, the device could be used to separate different sized blood components. More specifically, it could separate immune cells from smaller red blood cells for disease diagnostics. In the environmental field, the device could be used to categorize microplastics in the water. In the industrial field, the device could be used to remove unwanted particle contaminants in liquids.<br><br>
 
-* Based on the results of testing, could you implement any future changes to improve 
-sorting? 
+While my specific device was not tested, one problem that was noted with other similar devices was a backflow effect when the collection tubing wasn't held vertically. A solution to this would be creating a stand to hold the tubes up while the device is being tested. A second issue that was noticed was uneven flow rates between the channels. This caused particles to be sorted incorrectly since the streamlines were disrupted. One solution to this would be to curve some of the channels to ensure they are the same length while also leaving space for all of the barbs. Another solution would be to use collection barbs and tubing of equal resistance. Since there were not four barbs, one of the collection wells was left to leak out, and this uneven resistance led to disrupted streamlines.
+
