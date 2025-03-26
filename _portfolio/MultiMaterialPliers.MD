@@ -26,20 +26,20 @@ For the first design iteration, the jaws of the pliers were modeled off of slip 
 RENDER OF VERSION 1
 PIC OF VERSION 1
 
-While the jaws and handles of the pliers seemed like they would function well, the connection between the rigid and flexible parts was not ideal. The components would not stay interlocked due to the size of and clearance between the joints. <br><br>
+While the jaws and handles of the pliers seemed like they would function well, the connection between the rigid and flexible parts was not ideal. The components would not stay interlocked due to the size of and clearance between the joints. <br>
 
 To address this, four changes were made: 
-1) The number of finger joints was reduced to four and the size of the joints increased. 
-2) The joint angle was changed from 60 degrees to 70 degrees so that the joints would have greater contact with each other. 
-3) The clearance between parts was decreased from 0.15 mm to 0.10 mm so that the joints would have a tighter fit.
-4) The grid thickness was reduced from 1 mm to 0.6 mm to help improve the flexibility of the TPU-printed part.
+1. The number of finger joints was reduced to four and the size of the joints increased. 
+2. The joint angle was changed from 60 degrees to 70 degrees so that the joints would have greater contact with each other. 
+3. The clearance between parts was decreased from 0.15 mm to 0.10 mm so that the joints would have a tighter fit.
+4. The grid thickness was reduced from 1 mm to 0.6 mm to help improve the flexibility of the TPU-printed part.
 
 FLEXIBLE 1 VS Flexible 2
 
-### Final Design
+### Final Design <br>
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4cd3be0f6b01248d7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-With the four changes made, the final design was complete! The pliers are capable of picking up and moving resistors, and in a 30 second challenge, they were able to move 14 resistors. Of note, none of the standard PLA and TPU print settings were changed in this design.<br><br>
+<br><br>
+With the four changes made, the final design was complete! The pliers are capable of picking up and moving resistors, and in a 30 second challenge, they were able to move 14 resistors. Of note, none of the standard PLA and TPU print settings were changed in this design.<br>
 
 **Plier Specifications**
 * Jaw length = 49.23 mm
