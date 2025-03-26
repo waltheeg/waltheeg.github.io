@@ -42,10 +42,10 @@ CAD MODEL
 With the four changes made, the final design was complete! The pliers are capable of picking up and moving resistors, and in a 30 second challenge, they were able to move 14 resistors. Of note, none of the standard PLA and TPU print settings were changed in this design.<br><br>
 
 **Plier Specifications**
-•	Jaw length = 
-•	Maximum distance between jaws = 
-•	Flexible middle width (diagonal) = 
-•	Handle length = 
-•	Maximum distance between handles = 
+* Jaw length = 49.23 mm
+* Maximum distance between jaws = 16.62 mm
+* Flexible middle width (diagonal) = 35.36 mm
+* Handle length = 88.47 mm
+* Maximum distance between handles = 61.73 mm
 
 GIF OF PLIERS WORKING
