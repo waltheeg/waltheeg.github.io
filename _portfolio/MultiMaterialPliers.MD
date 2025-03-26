@@ -3,12 +3,18 @@ title: "Multi-Material Pliers"
 excerpt: "These 3D-printed multi-material pliers are capable of picking up and moving objects as small as resistors."
 
 header:
-  image: assets/img/uFluidic Model Render.jpg
-  teaser: assets/img/uFluidic Model Render.jpg
-gallerym:
-  - image_path: assets/img/uFluidic Mold.jpg
-galleryc:
-  - image_path: assets/img/uFluidic Casted Device.jpg
+  image: assets/img/Plier Render 2.png
+  teaser: assets/img/Plier Render 2.png
+gallery1:
+  - image_path: assets/img/Plier Render 1.png
+  - image_path: assets/img/Plier Print 1.jpg
+gallery2:
+  - image_path: assets/img/Plier Flexible 1.png
+  - image_path: assets/img/Plier Flexible 2.png
+gallery3: 
+ - image_path: assets/img/Plier Render 2.png
+gallery4: 
+ - image_path: assets/img/Plier GIF.gif
 
    
 ---
