@@ -37,7 +37,7 @@ To address this, four changes were made:
 FLEXIBLE 1 VS Flexible 2
 
 ### Final Design
-CAD MODEL
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4cd3be0f6b01248d7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 With the four changes made, the final design was complete! The pliers are capable of picking up and moving resistors, and in a 30 second challenge, they were able to move 14 resistors. Of note, none of the standard PLA and TPU print settings were changed in this design.<br><br>
 
