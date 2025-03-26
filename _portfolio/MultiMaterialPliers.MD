@@ -6,13 +6,12 @@ header:
   image: assets/img/Plier Render 2.png
   teaser: assets/img/Plier Render 2.png
 gallery1:
-  - image_path: assets/img/Plier Render 1.png
   - image_path: assets/img/Plier Print 1.jpg
 gallery2:
   - image_path: assets/img/Plier Flexible 1.png
   - image_path: assets/img/Plier Flexible 2.png
 gallery3: 
- - image_path: assets/img/Plier Render 2.png
+  - image_path: assets/img/Plier Print 2.jpg
 gallery4: 
  - image_path: assets/img/Plier GIF.gif
 
