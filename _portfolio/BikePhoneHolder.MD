@@ -6,7 +6,7 @@ header:
   image: assets/img/Bike Full Render.png
   teaser: assets/img/Bike Full Render.png
 gallery1:
-  - image_path: assets/img/Bike Detent Section.jpg
+  - image_path: assets/img/Bike Detent Section.png
 gallery2:
   - image_path: assets/img/Bike Clamp Part.png
   - image_path: assets/img/Bike Detent Part.png
