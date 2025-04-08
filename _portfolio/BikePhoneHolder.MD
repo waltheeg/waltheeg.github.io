@@ -13,8 +13,9 @@ gallery2:
   - image_path: assets/img/Bike TPU Part.png
 gallery3: 
   - image_path: assets/img/Bike Full Render.png
-  - image_path: assets/img/Bike Full Render.png
 gallery4: 
+  - image_path: assets/img/Bike Full Render.png
+gallery5: 
  - image_path: assets/img/Bike GIF.gif
 
    
@@ -53,3 +54,5 @@ xx
 {% include gallery id="gallery3" %}
 
 {% include gallery id="gallery4" %}
+
+{% include gallery id="gallery5" %}
