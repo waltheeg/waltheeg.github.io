@@ -45,14 +45,14 @@ This entire part was SLS printed out of nylon powder to eliminate the concern of
 
 ### Rotational Mechanism
 
-To rotate the phone, a simple detent mechanism was used. This mechanism uses a small spring-loaded ball bearing that engages with notches in a gear to hold a phone at specified angles. The detent mechanism provides tactile feedback when the phone locks in place while also allowing for easy rotation when enough force is applied. <br><br>
+To rotate the phone, a simple detent mechanism was used. This mechanism uses a small spring-loaded ball bearing that engages with notches in a gear to hold a phone at specified angles. The detent mechanism provides tactile feedback when the phone locks in place while also allowing for easy rotation when enough force is applied.
+
+{% include gallery id="gallery1" %}
 
 The detent mechanism created for this project works very well, especially when harnessing the added weight from a phone. However, one limitation is that it required the phone to be pushed in the direction of the spring before rotating. This could have been solved with a lighter spring or two symmetrical springs. <br><br>
 
 The detent gear was SLS printed from nylon powder for ultimate durability. The only modification that was made to the part due to the potential of part growth with SLS printing was increasing the diameter of the hole to allow the M5 bolt to rotate with ease. <br><br>
 
-
-{% include gallery id="gallery1" %}
 
 ### Phone Holder
 
@@ -68,20 +68,20 @@ When printing this component, an FFF printer was used. 90 TPU was selected as th
 
 ## Assembly Instructions
 
+{% include gallery id="gallery2" caption="1) Clamp Part; 2) Detent Gear; 3) TPU Part" %}
+
 1.	Embed a heat set insert into the center (chamfered) hole of the Clamp Part.
 2.	Place a 15 mm long, 5 mm diameter compression spring into the spring box in the Clamp Part. Balance a 7 mm ball bearing on top of this spring.
 3.	Place the Detent Gear in the Clamp Part, slightly compressing the spring to allow the holes to align. Secure with a 12 mm M5 bolt, leaving some space for the Detent Gear to rotate freely.
 4.	Stretch the center of the TPU part over the lip of the Detent Gear.
 5.	Use a 16 mm M5 bolt and M5 nut to secure the clamp to the handlebars. 
-6.	Stretch the corners of the TPU Part around a phone to secure it in the clamp.<br>
+6.	Stretch the corners of the TPU Part around a phone to secure it in the clamp.<br><br>
 To rotate the phone, simply push down into the spring and spin the phone to the desired orientation.
 
 
-{% include gallery id="gallery2" caption="1) Clamp Part; 2) Detent Gear; 3) TPU Part" %}
-
 ## Final Model
 
-xx
+
 {% include gallery id="gallery3" %}
 
 {% include gallery id="gallery4" %}
