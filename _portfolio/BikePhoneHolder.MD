@@ -14,7 +14,8 @@ gallery2:
 gallery3: 
   - image_path: assets/img/Bike Full Render.png
 gallery4: 
-  - image_path: assets/img/Bike Full Render.png
+  - image_path: assets/img/Bike Real 1.jpg
+  - image_path: assets/img/Bike Real 2.jpg
 gallery5: 
  - image_path: assets/img/Bike GIF.gif
 
