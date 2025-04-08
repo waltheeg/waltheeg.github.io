@@ -27,9 +27,13 @@ xx
 
 ## Design
 
+### Clamp Part
+
 xx
 
 ### Rotational Mechanism
+
+xx
 
 {% include gallery id="gallery1" %}
 
