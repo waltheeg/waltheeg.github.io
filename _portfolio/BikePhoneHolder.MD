@@ -34,10 +34,9 @@ xx
 
 ### Phone Holder
 
-{% include gallery id="gallery2" caption="1) Initial Flexible Middle Design; 2) Final Flexible Middle Design" %}
+xx
 
-{% include gallery id="gallery3" %}
-
+### CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a499a8c2dbb0b748e5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
@@ -46,8 +45,11 @@ xx
 
 xx
 
+{% include gallery id="gallery2" caption="1) Clamp Part; 2) Detent Gear; 3) TPU Part" %}
+
 ## Final Model
 
 xx
+{% include gallery id="gallery3" %}
 
 {% include gallery id="gallery4" %}
