@@ -6,7 +6,7 @@ header:
   image: assets/img/GD Header.jpg
   teaser: assets/img/GD Header.jpg
 gallery1:
-  - image_path: assets/img/GC MMC.jpg
+  - image_path: assets/img/GD MMC.jpg
 gallery2:
   - image_path: assets/img/GD Preserve.png
 gallery3: 
@@ -39,7 +39,7 @@ gallery9:
 
 My generative design project’s final part is a lightweight palm pen holder. This adaptation is very useful for individuals who have difficulty gripping standard pencils and pens due to a variety of conditions. Potential users of a palm pen holder include those with arthritis, cerebral palsy, stroke, muscular dystrophy, spinal cord injury, or limb difference.<br><br>
 
-This device was initially designed by Makers Making Change [(MMC Palm Pen Holder)]( https://www.makersmakingchange.com/s/product/palm-pen-holder/01tJR00000068z8YAA). One drawback of their design is that it is not lightweighted most optimally. By using generative design, the palm pen holder can be designed to be even lighter. This is especially helpful for those with neuromuscular disorders as they would be able to write for longer if they had a lighter device.<br><br>
+This device was initially designed by Makers Making Change [(MMC Palm Pen Holder)]( https://www.makersmakingchange.com/s/product/palm-pen-holder/01tJR00000068z8YAA). One drawback of their design is that it is not lightweighted most optimally. By using generative design, the palm pen holder can be designed to be even lighter. This is especially helpful for those with neuromuscular disorders as they would be able to write for longer if they had a lighter device.
 
 {% include gallery id="gallery1" %}
 
