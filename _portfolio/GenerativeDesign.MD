@@ -21,8 +21,6 @@ gallery5:
   - image_path: assets/img/GD I6.png
 gallery6: 
   - image_path: assets/img/GD FFM Compare.png
-gallery6: 
-  - image_path: assets/img/GD FFM Compare.jpg
 gallery7: 
   - image_path: assets/img/GD FFM Weight 1.jpg
   - image_path: assets/img/GD FFM Weight 2.jpg
@@ -37,7 +35,7 @@ gallery9:
 <br>
 ## Device Overview
 
-My generative design project’s final part is a lightweight palm pen holder. This adaptation is very useful for individuals who have difficulty gripping standard pencils and pens due to a variety of conditions. Potential users of a palm pen holder include those with arthritis, cerebral palsy, stroke, muscular dystrophy, spinal cord injury, or limb difference.<br><br>
+My generative design project is a lightweight palm pen holder. This adaptation is very useful for individuals who have difficulty gripping standard pencils and pens due to a variety of conditions. Potential users of a palm pen holder include those with arthritis, cerebral palsy, stroke, muscular dystrophy, spinal cord injury, or limb difference.<br><br>
 
 This device was initially designed by Makers Making Change [(MMC Palm Pen Holder)]( https://www.makersmakingchange.com/s/product/palm-pen-holder/01tJR00000068z8YAA). One drawback of their design is that it is not lightweighted most optimally. By using generative design, the palm pen holder can be designed to be even lighter. This is especially helpful for those with neuromuscular disorders as they would be able to write for longer if they had a lighter device.
 
@@ -99,7 +97,7 @@ When SLS printed, the final model weighed 17 g, a 41.38% reduction when compared
 {% include gallery id="gallery7" %}
 
 ### CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a468c441ba9b930965?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a448c2918c3c047465?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ### SLS Print
 
