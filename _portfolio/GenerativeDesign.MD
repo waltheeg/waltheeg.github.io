@@ -20,7 +20,7 @@ gallery5:
   - image_path: assets/img/GD I5.png
   - image_path: assets/img/GD I6.png
 gallery6: 
-  - image_path: assets/img/GD FFM Compare.jpg
+  - image_path: assets/img/GD FFM Compare.png
 gallery6: 
   - image_path: assets/img/GD FFM Compare.jpg
 gallery7: 
@@ -41,7 +41,7 @@ My generative design project’s final part is a lightweight palm pen holder. Th
 
 This device was initially designed by Makers Making Change [(MMC Palm Pen Holder)]( https://www.makersmakingchange.com/s/product/palm-pen-holder/01tJR00000068z8YAA). One drawback of their design is that it is not lightweighted most optimally. By using generative design, the palm pen holder can be designed to be even lighter. This is especially helpful for those with neuromuscular disorders as they would be able to write for longer if they had a lighter device.
 
-{% include gallery id="gallery1" %}
+{% include gallery id="gallery1" caption="Makers Making Change's Palm Pen Holder" %}
 
 Makers Making Change is a Canadian-based organization that makes affordable assistive technology for those with disabilities. This organization is extremely similar to Tikkun Olam Makers (TOM), which operates in over 35 countries. Vanderbilt has one of the 70+ university chapters of TOM, and I have been fortunate enough to lead the chapter for the past three semesters. Through my work with TOM, I have seen how important it is to continually improve upon existing assistive technologies to help meet the needs of those with disabilities. 
 
@@ -70,6 +70,7 @@ Makers Making Change is a Canadian-based organization that makes affordable assi
 A fixed constraint was added to the bolt cylinder as it was an interface between my part and surrounding parts. This made it so that the cylinder was not translated or rotated at all, ensuring that the bolt would line up with the nut and hole in the pen shaft.
 
 ### Load Cases 
+<br>
 Table of Forces:
 
 | **Force** | **Magnitude** | **Location** | **Rational** |
@@ -79,7 +80,7 @@ Table of Forces:
 | Pen Moment | 0.40 Nm | Inside of pen shaft | When inserting and tightening, or when writing, the pen will exert a moment on the pen shaft. |
 
 
-The direction and location of each load was determined by visual inspection on the MMC model. The magnitude of each load was influenced by AI’s suggestions. To further refine the loads, this device could be printed and used for a period of time by an individual with a disability before determining where the weakest points are.
+<br>The direction and location of each load was determined by visual inspection on the MMC model. The magnitude of each load was influenced by AI’s suggestions. To further refine the loads, this device could be printed and used for a period of time by an individual with a disability before determining where the weakest points are.
 
 ### Design Iterations
 
