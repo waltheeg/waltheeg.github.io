@@ -56,10 +56,13 @@ A fixed constraint was added to the bolt cylinder as it was an interface between
 
 ### Load Cases 
 Table of Forces
-Force	Magnitude	Location	Rational
-Hand Force	10 N	Bottom of cuff	When writing, the user’s hand will exert a force downwards on the bottom of the cuff.
-Hand Pressure	0.10 MPa	Front and back cuff faces	When gripping the device, the user’s hand will compress the cuff.
-Pen Moment	0.40 Nm	Inside of pen shaft	When inserting and tightening, or when writing, the pen shaft will experience a moment from the pen.
+
+| **Force** | **Magnitude** | **Location** | **Rational** |
+|:---------:|:----------:|:-------------:|:-------------:|
+| Hand Force | 10 N | Bottom of cuff | When writing, the user’s hand will exert a force downwards on the bottom of the cuff. |
+| Hand Pressure | 0.10 MPa | Front and back cuff faces | When gripping the device, the user’s hand will compress the cuff. |
+| Pen Moment | 0.40 Nm | Inside of pen shaft | When inserting and tightening, or when writing, the pen will exert a moment on the pen shaft. |
+
 
 The direction and location of each load was determined by visual inspection on the MMC model. The magnitude of each load was influenced by AI’s suggestions. To further refine the loads, this device could be printed and used for a period of time by an individual with a disability before determining where the weakest points are.
 
